@@ -1,0 +1,24 @@
+public/manifest.json
+fam-mobile/
+├── public/
+│   ├── manifest.json
+│   ├── sw.js
+│   └── index.html (updated)
+├── src/
+│   ├── App.tsx (AI mobile version)
+│   ├── main.tsx
+│   ├── index.css
+│   ├── components/
+│   │   └── ui/ (copy from original)
+│   ├── hooks/
+│   │   └── use-toast.ts (copy from original)
+│   ├── lib/
+│   │   └── utils.ts (copy from original)
+│   └── types/
+│       └── trip.ts (copy from original)
+├── package.json (updated)
+├── tailwind.config.ts
+├── vite.config.ts
+├── tsconfig.json
+├── components.json
+└── README.md (new AI mobile version)
